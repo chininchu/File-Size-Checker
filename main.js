@@ -71,5 +71,7 @@ function checkSize(fileSize) {
 
 
 
+// Now that we've created a function, let's put it to use. To use a function, we need to call it.
 
 
+checkSize(10);
